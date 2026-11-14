@@ -12,7 +12,7 @@ A 4-page Power BI dashboard benchmarking India's top four IT services companies 
 ![Overview](Overview.png)
 
 ### 2. Growth & Profitability
-![Growth and Profitability](GrowthandProfitability.png)
+![Growth and Profitability](Growth and Profitability.png)
 
 ### 3. Balance Sheet & Cash Flow
 ![Balance Sheet and Cash Flow](BalanceSheet.png)
